@@ -28,7 +28,7 @@ os leitores, esse tipo de design pode ser usado como propaganda para diversos ti
  de roupas e escritórios de arquitetura e design de interiores.
 
 ## 🤖 Tecnologias Utilizadas
--**[ChatGPT](https://chat.openai.com)** para me ajudar com o roteiro e conteudo dos storys baseado no livro **[Psicologia das cores](https://www.amazon.com.br/psicologia-das-cores-afetam-emoção/dp/658828005X)**  
+-**[[ChatGPT]([url](https://chat.openai.com))](https://chat.openai.com)** para me ajudar com o roteiro e conteudo dos storys baseado no livro **[[Psicologia das cores]([url](https://www.amazon.com.br/psicologia-das-cores-afetam-emoção/dp/658828005X))](https://www.amazon.com.br/psicologia-das-cores-afetam-emoção/dp/658828005X)**  
 -**[Leonardo AI](https://leonardo.ai)** e **[Imagine art](https://www.imagine.art)** para criar as imagens
 -**[Canva](https://www.canva.com)** para edição final do design
 
