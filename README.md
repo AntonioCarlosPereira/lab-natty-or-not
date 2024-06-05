@@ -20,13 +20,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Efeitos praticos e psicológicos da cor Verde
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizando algumas IA's generativas fiz o design de uma sequecia de storys para o instagram com o objetivo de educar os leitores, esse tipo de design pode ser usado como propaganda para diversos tipos de produtos e serviços como lojas de roupas e escritórios de arquitetura e design de interiores.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei 
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
