@@ -18,7 +18,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 
-Efeitos praticos e psicológicos da cor Verde
+##Efeitos praticos e psicológicos da cor Verde
 
 ## 📒 Descrição
 Utilizando algumas IA's generativas fiz o design de uma sequecia de storys para o instagram com o objetivo de educar
@@ -26,7 +26,7 @@ os leitores, esse tipo de design pode ser usado como propaganda para diversos ti
  de roupas e escritórios de arquitetura e design de interiores.
 
 ## 🤖 Tecnologias Utilizadas
--[ChatGPT]([url](https://chat.openai.com)) para me ajudar com o roteiro e conteudo dos storys baseado no livro [[Psicologia das cores]([url](https://www.amazon.com.br/psicologia-das-cores-afetam-emoção/dp/658828005X))]. 
+-[ChatGPT](https://chat.openai.com) para me ajudar com o roteiro e conteudo dos storys baseado no livro [Psicologia das cores](https://www.amazon.com.br/psicologia-das-cores-afetam-emoção/dp/658828005X). 
 -[Leonardo AI](https://leonardo.ai) e [Imagine art](https://www.imagine.art) para criar as imagens
 -[Canva](https://www.canva.com) para edição final do design
 
