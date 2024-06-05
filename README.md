@@ -23,19 +23,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Efeitos praticos e psicológicos da cor Verde
 
 ## 📒 Descrição
-Utilizando algumas IA's generativas fiz o design de uma sequecia de storys para o instagram com o objetivo de educar os leitores, esse tipo de design pode ser usado como propaganda para diversos tipos de produtos e serviços como lojas de roupas e escritórios de arquitetura e design de interiores.
+Utilizando algumas IA's generativas fiz o design de uma sequecia de storys para o instagram com o objetivo de educar
+os leitores, esse tipo de design pode ser usado como propaganda para diversos tipos de produtos e serviços como lojas
+ de roupas e escritórios de arquitetura e design de interiores.
 
 ## 🤖 Tecnologias Utilizadas
-Utilizei 
+-**[ChatGPT](https://chat.openai.com)** para me ajudar com o roteiro e conteudo dos storys baseado no livro **[Psicologia das cores](https://www.amazon.com.br/psicologia-das-cores-afetam-emoção/dp/658828005X)**  
+-**[Leonardo AI](https://leonardo.ai)** e **[Imagine art](https://www.imagine.art)** para criar as imagens
+-**[Canva](https://www.canva.com)** para edição final do design
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensei em um tema de meu interesse e que fosse incomum mas que me abrisse grande possibilidade de utilizar IA's generativas,
+após escolher o tema decidi escolher uma alterniva mais moderna para o conteudo assim cheguei nos storys. Assim começei a
+planejar o design e criar um banco de imagens, utilizando esse banco criei uma identidade virtual forte e chamativa e apliquei
+a ela o conteudo que queria transmitir.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Entenda o que o verde tem a dizer (1).pdf](https://github.com/user-attachments/files/15587712/Entenda.o.que.o.verde.tem.a.dizer.1.pdf)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
