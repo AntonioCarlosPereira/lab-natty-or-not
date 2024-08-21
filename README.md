@@ -30,7 +30,7 @@ de roupas e escritórios de arquitetura e design de interiores.
 
 -[Leonardo AI](https://leonardo.ai) e [Imagine art](https://www.imagine.art) para criar as imagens
 
--[Canva](https://www.canva.com) para edição final do design (que ficou top)
+-[Canva](https://www.canva.com) para edição final do design (que ficou top)(nem tanto)
 
 ## 🧐 Processo de Criação
 Pensei em um tema de meu interesse e que fosse incomum mas que me abrisse grande possibilidade de utilizar IA's generativas,
